@@ -20,7 +20,7 @@ namespace Servicios.WebApi.Controllers
         [HttpGet]
         [Route("{id:int}")]
         public IActionResult GetById(int id) {
-            return Ok(_logic.GetById(id));
+            return Ok(_logic.GetById(id)); 
         }
 
        // [EnableCors("MyPolicy")]
