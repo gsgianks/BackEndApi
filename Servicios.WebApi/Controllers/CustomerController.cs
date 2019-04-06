@@ -28,7 +28,7 @@ namespace Servicios.WebApi.Controllers
         [Route("GetPaginatedCustomer/{page:int}/{rows:int}")]
         public IActionResult GetPaginatedCustomer (int page, int rows)
         {
-            return Ok(_logic.CustomerPageList(page,rows));
+            return Ok(_logic.CustomerPageList(page,rows)); 
         }
 
         [HttpPost]
