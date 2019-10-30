@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿        using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Servicios.BusinessLogic.Intefaces;
@@ -20,15 +20,15 @@ namespace Servicios.WebApi.Controllers
         [HttpGet]
         [Route("{id:int}")]
         public IActionResult GetById(int id) {
-            return Ok(_logic.GetById(id));  
+            return Ok(_logic.GetById(id));
         }
 
        // [EnableCors("MyPolicy")]
         [HttpGet]
         [Route("GetPaginatedCustomer/{page:int}/{rows:int}")]
         public IActionResult GetPaginatedCustomer (int page, int rows)
-        { 
-            return Ok(_logic.CustomerPageList(page,rows)); 
+        {
+            return Ok(_logic.CustomerPageList(page,rows));
         }
 
         [HttpPost]

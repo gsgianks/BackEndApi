@@ -1,0 +1,12 @@
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Repositories\bin\Release\netcoreapp2.1\Servicios.Repositories.deps.json
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Repositories\bin\Release\netcoreapp2.1\Servicios.Repositories.dll
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Repositories\bin\Release\netcoreapp2.1\Servicios.Repositories.pdb
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Repositories\bin\Release\netcoreapp2.1\Servicios.Models.dll
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Repositories\bin\Release\netcoreapp2.1\Servicios.Models.pdb
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Repositories\obj\Release\netcoreapp2.1\Servicios.Repositories.csprojAssemblyReference.cache
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Repositories\obj\Release\netcoreapp2.1\Servicios.Repositories.csproj.CoreCompileInputs.cache
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Repositories\obj\Release\netcoreapp2.1\Servicios.Repositories.AssemblyInfoInputs.cache
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Repositories\obj\Release\netcoreapp2.1\Servicios.Repositories.AssemblyInfo.cs
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Repositories\obj\Release\netcoreapp2.1\Servicios.Repositories.csproj.CopyComplete
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Repositories\obj\Release\netcoreapp2.1\Servicios.Repositories.dll
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Repositories\obj\Release\netcoreapp2.1\Servicios.Repositories.pdb

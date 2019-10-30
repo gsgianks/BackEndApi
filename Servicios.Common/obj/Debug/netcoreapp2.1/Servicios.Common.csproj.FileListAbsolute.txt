@@ -1,0 +1,8 @@
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.Common\bin\Debug\netcoreapp2.1\Servicios.Common.deps.json
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.Common\bin\Debug\netcoreapp2.1\Servicios.Common.dll
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.Common\bin\Debug\netcoreapp2.1\Servicios.Common.pdb
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.Common\obj\Debug\netcoreapp2.1\Servicios.Common.csproj.CoreCompileInputs.cache
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.Common\obj\Debug\netcoreapp2.1\Servicios.Common.AssemblyInfoInputs.cache
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.Common\obj\Debug\netcoreapp2.1\Servicios.Common.AssemblyInfo.cs
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.Common\obj\Debug\netcoreapp2.1\Servicios.Common.dll
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.Common\obj\Debug\netcoreapp2.1\Servicios.Common.pdb

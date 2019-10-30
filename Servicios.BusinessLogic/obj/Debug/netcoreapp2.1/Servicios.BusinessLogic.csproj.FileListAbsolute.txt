@@ -1,0 +1,34 @@
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.BusinessLogic.deps.json
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.BusinessLogic.dll
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.BusinessLogic.pdb
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.Models.dll
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.Repositories.dll
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.dll
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.pdb
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.Models.pdb
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.Repositories.pdb
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.csprojAssemblyReference.cache
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.csproj.CoreCompileInputs.cache
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.AssemblyInfoInputs.cache
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.AssemblyInfo.cs
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.csproj.CopyComplete
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.dll
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.pdb
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.BusinessLogic.deps.json
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.BusinessLogic.dll
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.BusinessLogic.pdb
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.Common.dll
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.Models.dll
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.Repositories.dll
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.dll
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.Common.pdb
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.pdb
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.Models.pdb
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.Repositories.pdb
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.csprojAssemblyReference.cache
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.csproj.CoreCompileInputs.cache
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.AssemblyInfoInputs.cache
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.AssemblyInfo.cs
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.csproj.CopyComplete
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.dll
+G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.pdb

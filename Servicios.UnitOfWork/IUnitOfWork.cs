@@ -8,5 +8,7 @@ namespace Servicios.UnitOfWork
         IUserRepository User { get; }
         ISupplierRepository Supplier { get; }
         IOrderRepository Order { get; }
+        IUsuariosRepository Usuarios {get;}
+        IMotocicletaRepository Motocicletas { get; }
     }
 }

@@ -1,0 +1,9 @@
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Models\bin\Release\netcoreapp2.1\Servicios.Models.deps.json
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Models\bin\Release\netcoreapp2.1\Servicios.Models.dll
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Models\bin\Release\netcoreapp2.1\Servicios.Models.pdb
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Models\obj\Release\netcoreapp2.1\Servicios.Models.csproj.CoreCompileInputs.cache
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Models\obj\Release\netcoreapp2.1\Servicios.Models.AssemblyInfoInputs.cache
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Models\obj\Release\netcoreapp2.1\Servicios.Models.AssemblyInfo.cs
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Models\obj\Release\netcoreapp2.1\Servicios.Models.dll
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Models\obj\Release\netcoreapp2.1\Servicios.Models.pdb
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.Models\obj\Release\netcoreapp2.1\Servicios.Models.csprojAssemblyReference.cache

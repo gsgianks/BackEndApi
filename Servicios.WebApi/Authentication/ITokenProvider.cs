@@ -9,7 +9,7 @@ namespace Servicios.WebApi.Authentication
 {
     public interface ITokenProvider
     {
-        string CreateToken(User user, DateTime expiry);
+        string CreateToken(Usuarios user, DateTime expiry);
         TokenValidationParameters GetValidationParameters();
     }
 }

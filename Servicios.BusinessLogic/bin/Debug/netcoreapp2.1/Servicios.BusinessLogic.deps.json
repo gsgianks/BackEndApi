@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Servicios.BusinessLogic/1.0.0": {
+        "dependencies": {
+          "Servicios.Common": "1.0.0",
+          "Servicios.UnitOfWork": "1.0.0"
+        },
+        "runtime": {
+          "Servicios.BusinessLogic.dll": {}
+        }
+      },
+      "Servicios.Common/1.0.0": {
+        "runtime": {
+          "Servicios.Common.dll": {}
+        }
+      },
+      "Servicios.Models/1.0.0": {
+        "runtime": {
+          "Servicios.Models.dll": {}
+        }
+      },
+      "Servicios.Repositories/1.0.0": {
+        "dependencies": {
+          "Servicios.Models": "1.0.0"
+        },
+        "runtime": {
+          "Servicios.Repositories.dll": {}
+        }
+      },
+      "Servicios.UnitOfWork/1.0.0": {
+        "dependencies": {
+          "Servicios.Models": "1.0.0",
+          "Servicios.Repositories": "1.0.0"
+        },
+        "runtime": {
+          "Servicios.UnitOfWork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Servicios.BusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Servicios.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Servicios.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Servicios.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Servicios.UnitOfWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

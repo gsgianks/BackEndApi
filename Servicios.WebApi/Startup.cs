@@ -21,24 +21,40 @@ namespace Servicios.WebApi
             Configuration = configuration;
         }
 
-       // readonly string MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+        //readonly string MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //Enable CORS
+
             /*inicio pruebas*/
+
             services.AddCors(options =>
             {
-                options.AddPolicy("MyPolicy",
-                builder =>
+                options.AddPolicy("EnableCORS", builder =>
                 {
-                    builder.AllowAnyHeader()
-                            .AllowAnyMethod()
-                            .AllowAnyOrigin();
+                    builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod().AllowCredentials().Build();
                 });
             });
+
+           
+
+            //services.AddCors(options => options.AddPolicy("ApiCorsPolicy", builder =>
+            //{
+            //    builder.WithOrigins("http://localhost:4200").AllowAnyMethod().AllowAnyHeader();
+            //}));
+
+            //services.AddCors(options =>
+            //{
+            //    options.AddPolicy(MyAllowSpecificOrigins,
+            //    builder =>
+            //    {
+            //        builder.WithOrigins("http://localhost:4200").AllowAnyHeader().AllowAnyMethod();
+            //    });
+            //});
             /*fin pruebas*/
 
             //Inyección de dependencias de capa de lógica.
@@ -46,6 +62,8 @@ namespace Servicios.WebApi
             services.AddTransient<IOrderLogic, OrderLogic>();
             services.AddTransient<ICustomerLogic, CustomerLogic>();
             services.AddTransient<ITokenLogic, TokenLogic>();
+            services.AddTransient<IUsuariosLogic, UsuariosLogic>();
+            services.AddTransient<IMotocicletaLogic, MotocicletaLogic>();
 
 
             services.AddSingleton<IUnitOfWork>(option => new ServiciosUnitOfWork(
@@ -80,7 +98,23 @@ namespace Servicios.WebApi
             {
                 app.UseHsts();
             }
-            app.UseCors("MyPolicy");
+
+            //Enable CORS
+            app.UseCors("EnableCORS");
+
+            //Pruebas Inicio
+
+            //app.UseCors(MyAllowSpecificOrigins);
+
+            //app.UseCors(builder => builder
+            //    .AllowAnyOrigin()
+            //    .AllowAnyMethod()
+            //    .AllowAnyHeader()
+            //    .AllowCredentials());
+
+            //app.UseCors("ApiCorsPolicy");
+            //Pruebas Fin
+
             app.UseAuthentication();
             app.UseHttpsRedirection();
             app.ConfigureExceptionHandler();

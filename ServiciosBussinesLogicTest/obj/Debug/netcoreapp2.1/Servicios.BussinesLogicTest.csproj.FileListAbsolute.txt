@@ -1,0 +1,48 @@
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.deps.json
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.runtimeconfig.json
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.runtimeconfig.dev.json
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.dll
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.pdb
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BusinessLogic.dll
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.Models.dll
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.Repositories.dll
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.dll
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BusinessLogic.pdb
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.Models.pdb
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.Repositories.pdb
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.pdb
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.csprojAssemblyReference.cache
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.csproj.CoreCompileInputs.cache
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.AssemblyInfoInputs.cache
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.AssemblyInfo.cs
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.csproj.CopyComplete
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.dll
+G:\Proyectos\Web-angular\ServiciosCore\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.pdb
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.deps.json
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.runtimeconfig.json
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.runtimeconfig.dev.json
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.dll
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.pdb
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BusinessLogic.dll
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.Common.dll
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.Models.dll
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.Repositories.dll
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.dll
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BusinessLogic.pdb
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.Models.pdb
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.Repositories.pdb
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.pdb
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.Common.pdb
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.csprojAssemblyReference.cache
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.csproj.CoreCompileInputs.cache
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.AssemblyInfoInputs.cache
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.AssemblyInfo.cs
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.csproj.CopyComplete
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.dll
+G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.pdb

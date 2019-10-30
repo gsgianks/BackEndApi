@@ -1,0 +1,16 @@
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.DataAccess\bin\Release\netcoreapp2.1\Servicios.DataAccess.deps.json
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.DataAccess\bin\Release\netcoreapp2.1\Servicios.DataAccess.dll
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.DataAccess\bin\Release\netcoreapp2.1\Servicios.DataAccess.pdb
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.DataAccess\bin\Release\netcoreapp2.1\Servicios.Models.dll
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.DataAccess\bin\Release\netcoreapp2.1\Servicios.Repositories.dll
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.DataAccess\bin\Release\netcoreapp2.1\Servicios.UnitOfWork.dll
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.DataAccess\bin\Release\netcoreapp2.1\Servicios.Repositories.pdb
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.DataAccess\bin\Release\netcoreapp2.1\Servicios.UnitOfWork.pdb
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.DataAccess\bin\Release\netcoreapp2.1\Servicios.Models.pdb
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.DataAccess\obj\Release\netcoreapp2.1\Servicios.DataAccess.csprojAssemblyReference.cache
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.DataAccess\obj\Release\netcoreapp2.1\Servicios.DataAccess.csproj.CoreCompileInputs.cache
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.DataAccess\obj\Release\netcoreapp2.1\Servicios.DataAccess.AssemblyInfoInputs.cache
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.DataAccess\obj\Release\netcoreapp2.1\Servicios.DataAccess.AssemblyInfo.cs
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.DataAccess\obj\Release\netcoreapp2.1\Servicios.DataAccess.csproj.CopyComplete
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.DataAccess\obj\Release\netcoreapp2.1\Servicios.DataAccess.dll
+G:\Proyectos\Web-angular\ServiciosCore\Servicios.DataAccess\obj\Release\netcoreapp2.1\Servicios.DataAccess.pdb

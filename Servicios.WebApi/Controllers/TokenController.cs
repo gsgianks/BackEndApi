@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Servicios.BusinessLogic.Intefaces;
 using Servicios.Models;
+using Servicios.Models.Base;
 using Servicios.UnitOfWork;
 using Servicios.WebApi.Authentication;
 using System;
@@ -20,22 +21,37 @@ namespace Servicios.WebApi.Controllers
             _tokenProvider = tokenProvider;
             _logic = logic;
         }
-        [EnableCors("MyPolicy")]
+        //[EnableCors("MyPolicy")]
         [HttpPost]
-        public JsonWebToken Post([FromBody]User userLogin) {
+        public IActionResult Post([FromBody]User userLogin) {
+
+            ResultModel<Usuarios, JsonWebToken> model = new ResultModel<Usuarios, JsonWebToken>();
+
             var user = _logic.ValidateUser(userLogin.Email, userLogin.Password);
 
-            if (user == null) {
-                throw new UnauthorizedAccessException();
+            if (user == null)
+            {
+                model.Codigo = 1;
+                model.Descripcion = "Credenciales no validos";
+            }
+            else
+            {
+                model.Item = user;
+                model.ItemOptional = new JsonWebToken
+                {
+                    Access_Token = _tokenProvider.CreateToken(user, DateTime.UtcNow.AddHours(8)),
+                    Expires_in = 480//minutes
+                };
             }
 
-            var token = new JsonWebToken
-            {
-                Access_Token = _tokenProvider.CreateToken(user, DateTime.UtcNow.AddHours(8)),
-                Expires_in = 480//minutes
-            };
-
-            return token;
+            return Ok(model);
         }
+
+        //[HttpGet]
+        //public async Task<IActionResult> ObtenerTiposMantenimientoProceso()
+        //{
+        //    return Ok(await Task.Factory.StartNew(() => LnBitacora.ObtenerTiposMantenimientoProceso()));
+
+        //}
     }
 }

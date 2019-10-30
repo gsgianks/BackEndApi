@@ -31,13 +31,13 @@ namespace Servicios.WebApi.Authentication
             _audience = audience;
         }
 
-        public string CreateToken(User user, DateTime expiry)
+        public string CreateToken(Usuarios user, DateTime expiry)
         {
             JwtSecurityTokenHandler tokenHandler = new JwtSecurityTokenHandler();
             var identity = new ClaimsIdentity(new List<Claim>()
                             {
-                                new Claim(ClaimTypes.Name,$"{user.FirstName} {user.LastName}"),
-                                new Claim(ClaimTypes.Role,user.Roles),
+                                new Claim(ClaimTypes.Name,$"{user.Nombre} {user.Apellidos}"),
+                                new Claim(ClaimTypes.Role,user.Rol),
                                 new Claim(ClaimTypes.PrimarySid,user.Id.ToString()),
                             }, "Custom");
             SecurityToken token = tokenHandler.CreateJwtSecurityToken(new SecurityTokenDescriptor
