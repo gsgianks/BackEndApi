@@ -23,7 +23,7 @@ namespace Servicios.WebApi.Controllers
         }
         //[EnableCors("MyPolicy")]
         [HttpPost]
-        public IActionResult Post([FromBody]User userLogin) {
+        public JsonWebToken Post([FromBody]User userLogin) {
 
             ResultModel<Usuarios, JsonWebToken> model = new ResultModel<Usuarios, JsonWebToken>();
 
@@ -31,20 +31,15 @@ namespace Servicios.WebApi.Controllers
 
             if (user == null)
             {
-                model.Codigo = 1;
-                model.Descripcion = "Credenciales no validos";
+                throw new UnauthorizedAccessException();
             }
-            else
+            var token = new JsonWebToken
             {
-                model.Item = user;
-                model.ItemOptional = new JsonWebToken
-                {
-                    Access_Token = _tokenProvider.CreateToken(user, DateTime.UtcNow.AddHours(8)),
-                    Expires_in = 480//minutes
-                };
-            }
+                Access_Token = _tokenProvider.CreateToken(user, DateTime.UtcNow.AddHours(8)),
+                Expires_in = 480//minutes
+            };
 
-            return Ok(model);
+            return token;
         }
 
         //[HttpGet]
