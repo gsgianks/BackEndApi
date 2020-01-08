@@ -20,7 +20,7 @@ namespace Servicios.BusinessLogic.Implementations
 
             usuario.Contrasena = Util.RandomString(8, true);
             usuario.CambiarContrasena = true;
-            //Email.sendMail(usuario.CorreoElectronico, usuario.Contrasena);
+            Email.sendMail(usuario.CorreoElectronico, usuario.Contrasena);
 
             usuario.FechaIngreso = DateTime.Now;
             usuario.UsuarioIngreso = "giank";

@@ -46,3 +46,28 @@ G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\obj\Debug\ne
 G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.csproj.CopyComplete
 G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.dll
 G:\Proyectos\Taller - Will\ServiciosCore\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.pdb
+C:\BackEndApi\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\BackEndApi\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\BackEndApi\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\BackEndApi\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.deps.json
+C:\BackEndApi\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.runtimeconfig.json
+C:\BackEndApi\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.runtimeconfig.dev.json
+C:\BackEndApi\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.dll
+C:\BackEndApi\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.pdb
+C:\BackEndApi\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BusinessLogic.dll
+C:\BackEndApi\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.Common.dll
+C:\BackEndApi\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.Models.dll
+C:\BackEndApi\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.Repositories.dll
+C:\BackEndApi\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.dll
+C:\BackEndApi\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.BusinessLogic.pdb
+C:\BackEndApi\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.Models.pdb
+C:\BackEndApi\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.Repositories.pdb
+C:\BackEndApi\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.pdb
+C:\BackEndApi\ServiciosBussinesLogicTest\bin\Debug\netcoreapp2.1\Servicios.Common.pdb
+C:\BackEndApi\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.csprojAssemblyReference.cache
+C:\BackEndApi\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.csproj.CoreCompileInputs.cache
+C:\BackEndApi\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.AssemblyInfoInputs.cache
+C:\BackEndApi\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.AssemblyInfo.cs
+C:\BackEndApi\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.csproj.CopyComplete
+C:\BackEndApi\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.dll
+C:\BackEndApi\ServiciosBussinesLogicTest\obj\Debug\netcoreapp2.1\Servicios.BussinesLogicTest.pdb

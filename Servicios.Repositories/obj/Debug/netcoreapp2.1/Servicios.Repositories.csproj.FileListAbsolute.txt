@@ -22,3 +22,15 @@ G:\Proyectos\Taller - Will\ServiciosCore\Servicios.Repositories\obj\Debug\netcor
 G:\Proyectos\Taller - Will\ServiciosCore\Servicios.Repositories\obj\Debug\netcoreapp2.1\Servicios.Repositories.csproj.CopyComplete
 G:\Proyectos\Taller - Will\ServiciosCore\Servicios.Repositories\obj\Debug\netcoreapp2.1\Servicios.Repositories.dll
 G:\Proyectos\Taller - Will\ServiciosCore\Servicios.Repositories\obj\Debug\netcoreapp2.1\Servicios.Repositories.pdb
+C:\BackEndApi\Servicios.Repositories\bin\Debug\netcoreapp2.1\Servicios.Repositories.deps.json
+C:\BackEndApi\Servicios.Repositories\bin\Debug\netcoreapp2.1\Servicios.Repositories.dll
+C:\BackEndApi\Servicios.Repositories\bin\Debug\netcoreapp2.1\Servicios.Repositories.pdb
+C:\BackEndApi\Servicios.Repositories\bin\Debug\netcoreapp2.1\Servicios.Models.dll
+C:\BackEndApi\Servicios.Repositories\bin\Debug\netcoreapp2.1\Servicios.Models.pdb
+C:\BackEndApi\Servicios.Repositories\obj\Debug\netcoreapp2.1\Servicios.Repositories.csprojAssemblyReference.cache
+C:\BackEndApi\Servicios.Repositories\obj\Debug\netcoreapp2.1\Servicios.Repositories.csproj.CoreCompileInputs.cache
+C:\BackEndApi\Servicios.Repositories\obj\Debug\netcoreapp2.1\Servicios.Repositories.AssemblyInfoInputs.cache
+C:\BackEndApi\Servicios.Repositories\obj\Debug\netcoreapp2.1\Servicios.Repositories.AssemblyInfo.cs
+C:\BackEndApi\Servicios.Repositories\obj\Debug\netcoreapp2.1\Servicios.Repositories.csproj.CopyComplete
+C:\BackEndApi\Servicios.Repositories\obj\Debug\netcoreapp2.1\Servicios.Repositories.dll
+C:\BackEndApi\Servicios.Repositories\obj\Debug\netcoreapp2.1\Servicios.Repositories.pdb

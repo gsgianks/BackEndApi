@@ -13,6 +13,8 @@ namespace Servicios.DataAccess
             Order = new OrderRepository(connectionString);
             Usuarios = new UsuariosRepository(connectionString);
             Motocicletas = new MotocicletaRepository(connectionString);
+            HojasRecibimiento = new HojaRecibimientoRepository(connectionString);
+            Mantenimientos = new MantenimientoRepository(connectionString);
         }
         public ICustomerRepository Customer { get; private set; }
         public IUserRepository User { get; private set; }
@@ -20,6 +22,8 @@ namespace Servicios.DataAccess
         public IOrderRepository Order { get; private set; }
         public IUsuariosRepository Usuarios { get; private set; }
         public IMotocicletaRepository Motocicletas { get; private set; }
+        public IHojaRecibimientoRepository HojasRecibimiento { get; private set; }
+        public IMantenimientoRepository Mantenimientos { get; private set; }
 
     }
 }

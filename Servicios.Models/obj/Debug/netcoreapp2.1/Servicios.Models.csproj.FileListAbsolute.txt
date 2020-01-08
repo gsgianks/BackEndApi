@@ -16,3 +16,12 @@ G:\Proyectos\Taller - Will\ServiciosCore\Servicios.Models\obj\Debug\netcoreapp2.
 G:\Proyectos\Taller - Will\ServiciosCore\Servicios.Models\obj\Debug\netcoreapp2.1\Servicios.Models.dll
 G:\Proyectos\Taller - Will\ServiciosCore\Servicios.Models\obj\Debug\netcoreapp2.1\Servicios.Models.pdb
 G:\Proyectos\Taller - Will\ServiciosCore\Servicios.Models\obj\Debug\netcoreapp2.1\Servicios.Models.csprojAssemblyReference.cache
+C:\BackEndApi\Servicios.Models\bin\Debug\netcoreapp2.1\Servicios.Models.deps.json
+C:\BackEndApi\Servicios.Models\bin\Debug\netcoreapp2.1\Servicios.Models.dll
+C:\BackEndApi\Servicios.Models\bin\Debug\netcoreapp2.1\Servicios.Models.pdb
+C:\BackEndApi\Servicios.Models\obj\Debug\netcoreapp2.1\Servicios.Models.csproj.CoreCompileInputs.cache
+C:\BackEndApi\Servicios.Models\obj\Debug\netcoreapp2.1\Servicios.Models.AssemblyInfoInputs.cache
+C:\BackEndApi\Servicios.Models\obj\Debug\netcoreapp2.1\Servicios.Models.AssemblyInfo.cs
+C:\BackEndApi\Servicios.Models\obj\Debug\netcoreapp2.1\Servicios.Models.dll
+C:\BackEndApi\Servicios.Models\obj\Debug\netcoreapp2.1\Servicios.Models.pdb
+C:\BackEndApi\Servicios.Models\obj\Debug\netcoreapp2.1\Servicios.Models.csprojAssemblyReference.cache

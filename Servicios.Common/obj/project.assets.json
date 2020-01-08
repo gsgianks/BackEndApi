@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Proyectos\\Taller - Will\\ServiciosCore\\Servicios.Common\\Servicios.Common.csproj",
+      "projectUniqueName": "C:\\BackEndApi\\Servicios.Common\\Servicios.Common.csproj",
       "projectName": "Servicios.Common",
-      "projectPath": "G:\\Proyectos\\Taller - Will\\ServiciosCore\\Servicios.Common\\Servicios.Common.csproj",
+      "projectPath": "C:\\BackEndApi\\Servicios.Common\\Servicios.Common.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "G:\\Proyectos\\Taller - Will\\ServiciosCore\\Servicios.Common\\obj\\",
+      "outputPath": "C:\\BackEndApi\\Servicios.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

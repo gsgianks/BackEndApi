@@ -50,3 +50,30 @@ G:\Proyectos\Taller - Will\ServiciosCore\Servicios.WebApi\obj\Debug\netcoreapp2.
 G:\Proyectos\Taller - Will\ServiciosCore\Servicios.WebApi\obj\Debug\netcoreapp2.1\Servicios.WebApi.csproj.CopyComplete
 G:\Proyectos\Taller - Will\ServiciosCore\Servicios.WebApi\obj\Debug\netcoreapp2.1\Servicios.WebApi.dll
 G:\Proyectos\Taller - Will\ServiciosCore\Servicios.WebApi\obj\Debug\netcoreapp2.1\Servicios.WebApi.pdb
+C:\BackEndApi\Servicios.WebApi\bin\Debug\netcoreapp2.1\Servicios.WebApi.deps.json
+C:\BackEndApi\Servicios.WebApi\bin\Debug\netcoreapp2.1\Servicios.WebApi.runtimeconfig.json
+C:\BackEndApi\Servicios.WebApi\bin\Debug\netcoreapp2.1\Servicios.WebApi.runtimeconfig.dev.json
+C:\BackEndApi\Servicios.WebApi\bin\Debug\netcoreapp2.1\Servicios.WebApi.dll
+C:\BackEndApi\Servicios.WebApi\bin\Debug\netcoreapp2.1\Servicios.WebApi.pdb
+C:\BackEndApi\Servicios.WebApi\bin\Debug\netcoreapp2.1\Servicios.BusinessLogic.dll
+C:\BackEndApi\Servicios.WebApi\bin\Debug\netcoreapp2.1\Servicios.Common.dll
+C:\BackEndApi\Servicios.WebApi\bin\Debug\netcoreapp2.1\Servicios.DataAccess.dll
+C:\BackEndApi\Servicios.WebApi\bin\Debug\netcoreapp2.1\Servicios.Models.dll
+C:\BackEndApi\Servicios.WebApi\bin\Debug\netcoreapp2.1\Servicios.Repositories.dll
+C:\BackEndApi\Servicios.WebApi\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.dll
+C:\BackEndApi\Servicios.WebApi\bin\Debug\netcoreapp2.1\Servicios.BusinessLogic.pdb
+C:\BackEndApi\Servicios.WebApi\bin\Debug\netcoreapp2.1\Servicios.DataAccess.pdb
+C:\BackEndApi\Servicios.WebApi\bin\Debug\netcoreapp2.1\Servicios.Common.pdb
+C:\BackEndApi\Servicios.WebApi\bin\Debug\netcoreapp2.1\Servicios.Models.pdb
+C:\BackEndApi\Servicios.WebApi\bin\Debug\netcoreapp2.1\Servicios.Repositories.pdb
+C:\BackEndApi\Servicios.WebApi\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.pdb
+C:\BackEndApi\Servicios.WebApi\obj\Debug\netcoreapp2.1\Servicios.WebApi.csprojAssemblyReference.cache
+C:\BackEndApi\Servicios.WebApi\obj\Debug\netcoreapp2.1\Servicios.WebApi.csproj.CoreCompileInputs.cache
+C:\BackEndApi\Servicios.WebApi\obj\Debug\netcoreapp2.1\Servicios.WebApi.RazorAssemblyInfo.cache
+C:\BackEndApi\Servicios.WebApi\obj\Debug\netcoreapp2.1\Servicios.WebApi.RazorAssemblyInfo.cs
+C:\BackEndApi\Servicios.WebApi\obj\Debug\netcoreapp2.1\Servicios.WebApi.AssemblyInfoInputs.cache
+C:\BackEndApi\Servicios.WebApi\obj\Debug\netcoreapp2.1\Servicios.WebApi.AssemblyInfo.cs
+C:\BackEndApi\Servicios.WebApi\obj\Debug\netcoreapp2.1\Servicios.WebApi.RazorTargetAssemblyInfo.cache
+C:\BackEndApi\Servicios.WebApi\obj\Debug\netcoreapp2.1\Servicios.WebApi.csproj.CopyComplete
+C:\BackEndApi\Servicios.WebApi\obj\Debug\netcoreapp2.1\Servicios.WebApi.dll
+C:\BackEndApi\Servicios.WebApi\obj\Debug\netcoreapp2.1\Servicios.WebApi.pdb

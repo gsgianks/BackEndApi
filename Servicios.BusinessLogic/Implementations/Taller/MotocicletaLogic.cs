@@ -4,6 +4,7 @@ using Servicios.BusinessLogic.Intefaces;
 using Servicios.Common;
 using Servicios.Models;
 using Servicios.Models.Seguridad;
+using Servicios.Models.Taller;
 using Servicios.UnitOfWork;
 
 namespace Servicios.BusinessLogic.Implementations
@@ -22,5 +23,7 @@ namespace Servicios.BusinessLogic.Implementations
         public IEnumerable<Motocicleta> GetList() => _unitOfWork.Motocicletas.GetList();       
 
         Motocicleta IMotocicletaLogic.GetById(int id) => _unitOfWork.Motocicletas.GetById(id);
+
+        public IEnumerable<ListaMotocicleta> ListaPaginadaMotocycleta(int pag, int filas, int id) => _unitOfWork.Motocicletas.ListaPaginadaMotocycleta(pag, filas, id);
     }
 }

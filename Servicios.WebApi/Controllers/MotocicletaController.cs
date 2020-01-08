@@ -2,7 +2,12 @@
 using Microsoft.AspNetCore.Mvc;
 using Servicios.BusinessLogic.Intefaces;
 using Servicios.Models;
+using Servicios.Models.Base;
+using Servicios.WebApi.Common;
 using Servicios.WebApi.Models;
+using System;
+using System.IO;
+using System.Net.Http.Headers;
 
 namespace Servicios.WebApi.Controllers
 {
@@ -32,10 +37,58 @@ namespace Servicios.WebApi.Controllers
         }
 
         [HttpPost]
+        [Route("ListaPaginada")]
+        public IActionResult ListaPaginada([FromBody] PaginacionModel model)
+        {
+            return Ok(_logic.ListaPaginadaMotocycleta(model.Page, model.Rows, model.Id));
+        }
+
+        [HttpPost]
         public IActionResult Post([FromBody] Motocicleta usuario)
         {
             if (!ModelState.IsValid) return BadRequest();
             return Ok(_logic.Insert(usuario));
+        }
+
+        [HttpPost, DisableRequestSizeLimit]
+        [Route("Upload")]
+        public IActionResult Upload()
+        {
+            AnswerModel result = new AnswerModel();
+
+            try
+            {
+                var file = Request.Form.Files[0];
+                //var folderName = Path.Combine("Resources", "Images");
+                var pathToSave = Util.GetFilePath();//Path.Combine(Directory.GetCurrentDirectory(), folderName);
+
+                if (file.Length > 0)
+                {
+                    var fileName = ContentDispositionHeaderValue.Parse(file.ContentDisposition).FileName.Trim('"');
+                    var fullPath = Path.Combine(pathToSave, fileName);
+                    //var dbPath = Path.Combine(folderName, fileName);
+
+                    using (var stream = new FileStream(fullPath, FileMode.Create))
+                    {
+                        file.CopyTo(stream);
+                    }
+
+                    result.Description = Util.GetFilePathRead()+fileName;
+                }
+                else
+                {
+                    result.Code = 99;
+                    result.Description = "Archivo no guardado";
+                }
+            }
+            catch (Exception ex)
+            {
+                //return StatusCode(500, "Internal server error");
+                result.Code = 99;
+                result.Description = "Error en la aplicación";
+            }
+
+            return Ok(new { code = result.Code, description = result.Description });
         }
 
         [HttpPut]

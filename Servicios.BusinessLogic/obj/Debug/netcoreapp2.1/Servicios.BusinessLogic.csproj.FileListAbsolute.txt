@@ -32,3 +32,21 @@ G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\obj\Debug\netco
 G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.csproj.CopyComplete
 G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.dll
 G:\Proyectos\Taller - Will\ServiciosCore\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.pdb
+C:\BackEndApi\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.BusinessLogic.deps.json
+C:\BackEndApi\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.BusinessLogic.dll
+C:\BackEndApi\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.BusinessLogic.pdb
+C:\BackEndApi\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.Common.dll
+C:\BackEndApi\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.Models.dll
+C:\BackEndApi\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.Repositories.dll
+C:\BackEndApi\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.dll
+C:\BackEndApi\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.Common.pdb
+C:\BackEndApi\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.pdb
+C:\BackEndApi\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.Models.pdb
+C:\BackEndApi\Servicios.BusinessLogic\bin\Debug\netcoreapp2.1\Servicios.Repositories.pdb
+C:\BackEndApi\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.csprojAssemblyReference.cache
+C:\BackEndApi\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\BackEndApi\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.AssemblyInfoInputs.cache
+C:\BackEndApi\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.AssemblyInfo.cs
+C:\BackEndApi\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.csproj.CopyComplete
+C:\BackEndApi\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.dll
+C:\BackEndApi\Servicios.BusinessLogic\obj\Debug\netcoreapp2.1\Servicios.BusinessLogic.pdb

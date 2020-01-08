@@ -6454,11 +6454,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Proyectos\\Taller - Will\\ServiciosCore\\ServiciosBussinesLogicTest\\Servicios.BussinesLogicTest.csproj",
+      "projectUniqueName": "C:\\BackEndApi\\ServiciosBussinesLogicTest\\Servicios.BussinesLogicTest.csproj",
       "projectName": "Servicios.BussinesLogicTest",
-      "projectPath": "G:\\Proyectos\\Taller - Will\\ServiciosCore\\ServiciosBussinesLogicTest\\Servicios.BussinesLogicTest.csproj",
+      "projectPath": "C:\\BackEndApi\\ServiciosBussinesLogicTest\\Servicios.BussinesLogicTest.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "G:\\Proyectos\\Taller - Will\\ServiciosCore\\ServiciosBussinesLogicTest\\obj\\",
+      "outputPath": "C:\\BackEndApi\\ServiciosBussinesLogicTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6477,17 +6477,17 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "G:\\Proyectos\\Taller - Will\\ServiciosCore\\Servicios.BusinessLogic\\Servicios.BusinessLogic.csproj": {
-              "projectPath": "G:\\Proyectos\\Taller - Will\\ServiciosCore\\Servicios.BusinessLogic\\Servicios.BusinessLogic.csproj"
+            "C:\\BackEndApi\\Servicios.BusinessLogic\\Servicios.BusinessLogic.csproj": {
+              "projectPath": "C:\\BackEndApi\\Servicios.BusinessLogic\\Servicios.BusinessLogic.csproj"
             },
-            "G:\\Proyectos\\Taller - Will\\ServiciosCore\\Servicios.Models\\Servicios.Models.csproj": {
-              "projectPath": "G:\\Proyectos\\Taller - Will\\ServiciosCore\\Servicios.Models\\Servicios.Models.csproj"
+            "C:\\BackEndApi\\Servicios.Models\\Servicios.Models.csproj": {
+              "projectPath": "C:\\BackEndApi\\Servicios.Models\\Servicios.Models.csproj"
             },
-            "G:\\Proyectos\\Taller - Will\\ServiciosCore\\Servicios.Repositories\\Servicios.Repositories.csproj": {
-              "projectPath": "G:\\Proyectos\\Taller - Will\\ServiciosCore\\Servicios.Repositories\\Servicios.Repositories.csproj"
+            "C:\\BackEndApi\\Servicios.Repositories\\Servicios.Repositories.csproj": {
+              "projectPath": "C:\\BackEndApi\\Servicios.Repositories\\Servicios.Repositories.csproj"
             },
-            "G:\\Proyectos\\Taller - Will\\ServiciosCore\\Servicios.UnitOfWork\\Servicios.UnitOfWork.csproj": {
-              "projectPath": "G:\\Proyectos\\Taller - Will\\ServiciosCore\\Servicios.UnitOfWork\\Servicios.UnitOfWork.csproj"
+            "C:\\BackEndApi\\Servicios.UnitOfWork\\Servicios.UnitOfWork.csproj": {
+              "projectPath": "C:\\BackEndApi\\Servicios.UnitOfWork\\Servicios.UnitOfWork.csproj"
             }
           }
         }

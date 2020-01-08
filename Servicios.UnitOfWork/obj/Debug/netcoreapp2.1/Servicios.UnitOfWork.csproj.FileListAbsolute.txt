@@ -26,3 +26,17 @@ G:\Proyectos\Taller - Will\ServiciosCore\Servicios.UnitOfWork\obj\Debug\netcorea
 G:\Proyectos\Taller - Will\ServiciosCore\Servicios.UnitOfWork\obj\Debug\netcoreapp2.1\Servicios.UnitOfWork.csproj.CopyComplete
 G:\Proyectos\Taller - Will\ServiciosCore\Servicios.UnitOfWork\obj\Debug\netcoreapp2.1\Servicios.UnitOfWork.dll
 G:\Proyectos\Taller - Will\ServiciosCore\Servicios.UnitOfWork\obj\Debug\netcoreapp2.1\Servicios.UnitOfWork.pdb
+C:\BackEndApi\Servicios.UnitOfWork\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.deps.json
+C:\BackEndApi\Servicios.UnitOfWork\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.dll
+C:\BackEndApi\Servicios.UnitOfWork\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.pdb
+C:\BackEndApi\Servicios.UnitOfWork\bin\Debug\netcoreapp2.1\Servicios.Models.dll
+C:\BackEndApi\Servicios.UnitOfWork\bin\Debug\netcoreapp2.1\Servicios.Repositories.dll
+C:\BackEndApi\Servicios.UnitOfWork\bin\Debug\netcoreapp2.1\Servicios.Models.pdb
+C:\BackEndApi\Servicios.UnitOfWork\bin\Debug\netcoreapp2.1\Servicios.Repositories.pdb
+C:\BackEndApi\Servicios.UnitOfWork\obj\Debug\netcoreapp2.1\Servicios.UnitOfWork.csprojAssemblyReference.cache
+C:\BackEndApi\Servicios.UnitOfWork\obj\Debug\netcoreapp2.1\Servicios.UnitOfWork.csproj.CoreCompileInputs.cache
+C:\BackEndApi\Servicios.UnitOfWork\obj\Debug\netcoreapp2.1\Servicios.UnitOfWork.AssemblyInfoInputs.cache
+C:\BackEndApi\Servicios.UnitOfWork\obj\Debug\netcoreapp2.1\Servicios.UnitOfWork.AssemblyInfo.cs
+C:\BackEndApi\Servicios.UnitOfWork\obj\Debug\netcoreapp2.1\Servicios.UnitOfWork.csproj.CopyComplete
+C:\BackEndApi\Servicios.UnitOfWork\obj\Debug\netcoreapp2.1\Servicios.UnitOfWork.dll
+C:\BackEndApi\Servicios.UnitOfWork\obj\Debug\netcoreapp2.1\Servicios.UnitOfWork.pdb

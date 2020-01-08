@@ -2,15 +2,18 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.FileProviders;
 using Servicios.BusinessLogic.Implementations;
 using Servicios.BusinessLogic.Intefaces;
 using Servicios.DataAccess;
 using Servicios.UnitOfWork;
 using Servicios.WebApi.Authentication;
 using Servicios.WebApi.Controllers.GlobalErrorHandling;
+using System.IO;
 
 namespace Servicios.WebApi
 {
@@ -64,7 +67,8 @@ namespace Servicios.WebApi
             services.AddTransient<ITokenLogic, TokenLogic>();
             services.AddTransient<IUsuariosLogic, UsuariosLogic>();
             services.AddTransient<IMotocicletaLogic, MotocicletaLogic>();
-
+            services.AddTransient<IHojaRecibimientoLogic, HojaRecibimientoLogic>();
+            services.AddTransient<IMantenimientoLogic, MantenimientoLogic>();
 
             services.AddSingleton<IUnitOfWork>(option => new ServiciosUnitOfWork(
                 Configuration.GetConnectionString("Northwind")
@@ -101,6 +105,12 @@ namespace Servicios.WebApi
 
             //Enable CORS
             app.UseCors("EnableCORS");
+            app.UseStaticFiles();
+            app.UseStaticFiles(new StaticFileOptions()
+            {
+                FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), @"Resources")),
+                RequestPath = new PathString("/Resources")
+            });
 
             //Pruebas Inicio
 

@@ -10,5 +10,7 @@ namespace Servicios.UnitOfWork
         IOrderRepository Order { get; }
         IUsuariosRepository Usuarios {get;}
         IMotocicletaRepository Motocicletas { get; }
+        IHojaRecibimientoRepository HojasRecibimiento { get; }
+        IMantenimientoRepository Mantenimientos { get; }
     }
 }

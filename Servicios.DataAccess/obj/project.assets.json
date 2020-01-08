@@ -3167,11 +3167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Proyectos\\Taller - Will\\ServiciosCore\\Servicios.DataAccess\\Servicios.DataAccess.csproj",
+      "projectUniqueName": "C:\\BackEndApi\\Servicios.DataAccess\\Servicios.DataAccess.csproj",
       "projectName": "Servicios.DataAccess",
-      "projectPath": "G:\\Proyectos\\Taller - Will\\ServiciosCore\\Servicios.DataAccess\\Servicios.DataAccess.csproj",
+      "projectPath": "C:\\BackEndApi\\Servicios.DataAccess\\Servicios.DataAccess.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "G:\\Proyectos\\Taller - Will\\ServiciosCore\\Servicios.DataAccess\\obj\\",
+      "outputPath": "C:\\BackEndApi\\Servicios.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3190,11 +3190,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "G:\\Proyectos\\Taller - Will\\ServiciosCore\\Servicios.Repositories\\Servicios.Repositories.csproj": {
-              "projectPath": "G:\\Proyectos\\Taller - Will\\ServiciosCore\\Servicios.Repositories\\Servicios.Repositories.csproj"
+            "C:\\BackEndApi\\Servicios.Repositories\\Servicios.Repositories.csproj": {
+              "projectPath": "C:\\BackEndApi\\Servicios.Repositories\\Servicios.Repositories.csproj"
             },
-            "G:\\Proyectos\\Taller - Will\\ServiciosCore\\Servicios.UnitOfWork\\Servicios.UnitOfWork.csproj": {
-              "projectPath": "G:\\Proyectos\\Taller - Will\\ServiciosCore\\Servicios.UnitOfWork\\Servicios.UnitOfWork.csproj"
+            "C:\\BackEndApi\\Servicios.UnitOfWork\\Servicios.UnitOfWork.csproj": {
+              "projectPath": "C:\\BackEndApi\\Servicios.UnitOfWork\\Servicios.UnitOfWork.csproj"
             }
           }
         }

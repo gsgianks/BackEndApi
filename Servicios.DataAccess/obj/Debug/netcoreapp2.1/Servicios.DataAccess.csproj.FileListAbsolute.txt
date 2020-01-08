@@ -30,3 +30,19 @@ G:\Proyectos\Taller - Will\ServiciosCore\Servicios.DataAccess\obj\Debug\netcorea
 G:\Proyectos\Taller - Will\ServiciosCore\Servicios.DataAccess\obj\Debug\netcoreapp2.1\Servicios.DataAccess.csproj.CopyComplete
 G:\Proyectos\Taller - Will\ServiciosCore\Servicios.DataAccess\obj\Debug\netcoreapp2.1\Servicios.DataAccess.dll
 G:\Proyectos\Taller - Will\ServiciosCore\Servicios.DataAccess\obj\Debug\netcoreapp2.1\Servicios.DataAccess.pdb
+C:\BackEndApi\Servicios.DataAccess\bin\Debug\netcoreapp2.1\Servicios.DataAccess.deps.json
+C:\BackEndApi\Servicios.DataAccess\bin\Debug\netcoreapp2.1\Servicios.DataAccess.dll
+C:\BackEndApi\Servicios.DataAccess\bin\Debug\netcoreapp2.1\Servicios.DataAccess.pdb
+C:\BackEndApi\Servicios.DataAccess\bin\Debug\netcoreapp2.1\Servicios.Models.dll
+C:\BackEndApi\Servicios.DataAccess\bin\Debug\netcoreapp2.1\Servicios.Repositories.dll
+C:\BackEndApi\Servicios.DataAccess\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.dll
+C:\BackEndApi\Servicios.DataAccess\bin\Debug\netcoreapp2.1\Servicios.Repositories.pdb
+C:\BackEndApi\Servicios.DataAccess\bin\Debug\netcoreapp2.1\Servicios.UnitOfWork.pdb
+C:\BackEndApi\Servicios.DataAccess\bin\Debug\netcoreapp2.1\Servicios.Models.pdb
+C:\BackEndApi\Servicios.DataAccess\obj\Debug\netcoreapp2.1\Servicios.DataAccess.csprojAssemblyReference.cache
+C:\BackEndApi\Servicios.DataAccess\obj\Debug\netcoreapp2.1\Servicios.DataAccess.csproj.CoreCompileInputs.cache
+C:\BackEndApi\Servicios.DataAccess\obj\Debug\netcoreapp2.1\Servicios.DataAccess.AssemblyInfoInputs.cache
+C:\BackEndApi\Servicios.DataAccess\obj\Debug\netcoreapp2.1\Servicios.DataAccess.AssemblyInfo.cs
+C:\BackEndApi\Servicios.DataAccess\obj\Debug\netcoreapp2.1\Servicios.DataAccess.csproj.CopyComplete
+C:\BackEndApi\Servicios.DataAccess\obj\Debug\netcoreapp2.1\Servicios.DataAccess.dll
+C:\BackEndApi\Servicios.DataAccess\obj\Debug\netcoreapp2.1\Servicios.DataAccess.pdb

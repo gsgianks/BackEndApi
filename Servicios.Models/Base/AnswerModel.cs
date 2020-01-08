@@ -6,7 +6,7 @@ namespace Servicios.Models.Base
 {
     public class AnswerModel
     {
-        public int Codigo { get; set; }
-        public string Descripcion { get; set; }
+        public int Code { get; set; }
+        public string Description { get; set; }
     }
 }
