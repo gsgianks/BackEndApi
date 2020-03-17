@@ -24,6 +24,12 @@ namespace Servicios.WebApi.Controllers
             return Ok(_logic.GetById(id));
         }
 
+        [HttpGet]
+        public IActionResult GetList()
+        {
+            return Ok(_logic.GetList());
+        }
+
         [HttpPost]
         [Route("ListaPaginadaUsuarios")]
         public IActionResult GetPaginatedSupplier([FromBody] GetPaginatedSupplier request)
@@ -34,32 +40,28 @@ namespace Servicios.WebApi.Controllers
         [HttpPost]
         public IActionResult Post([FromBody] Usuarios usuario)
         {
-            if (!ModelState.IsValid) return BadRequest();
+            if (!ModelState.IsValid)
+                return BadRequest();
+
             return Ok(_logic.Insert(usuario));
         }
 
         [HttpPut]
         public IActionResult Put([FromBody]Usuarios usuario)
         {
-            if (ModelState.IsValid && _logic.Update(usuario))
-            {
-                return Ok(new { Message = "The Supplier is Updated" });
-            }
+            if (!ModelState.IsValid)
+                return BadRequest();
 
-            return BadRequest();
-
+            return Ok(_logic.Update(usuario));
         }
 
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            if (id > 0)
-            {
-                return Ok(_logic.Delete(new Usuarios() { Id = id}));
-            }
+            if (id <= 0)
+                return BadRequest();
 
-            return BadRequest();
-
+            return Ok(_logic.Delete(new Usuarios() { Id = id }));
         }
 
     }
